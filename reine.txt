@@ -1,3 +1,11 @@
+<<<<<<< HEAD
 parmesan
+=======
+"\nmaroille" 
+<<<<<<< HEAD
+artichaud
+=======
+>>>>>>> 7afea47569bbb1f8fae3045019e09fe96626ec8c
 
 ligne 2
+>>>>>>> 8a218c80892ebd6678f7ad318aefe48f5d8d40dc
