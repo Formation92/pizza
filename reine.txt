@@ -1,2 +1,7 @@
 "\nmaroille" 
+<<<<<<< HEAD
 artichaud
+=======
+
+ligne 2
+>>>>>>> 8a218c80892ebd6678f7ad318aefe48f5d8d40dc
