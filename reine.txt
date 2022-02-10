@@ -3,9 +3,3 @@ Modification 2
 Modification 3 (local)
 Modification 3 (remote)
 
-Modification 4 (dimby)
-<<<<<<< HEAD
-modification 5 (nanaba)
-=======
-Modification 5 (Adeline)
->>>>>>> 59942b5e7d442f7bfd8f30e0c2204fe910b57fbd
