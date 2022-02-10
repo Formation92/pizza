@@ -2,6 +2,12 @@ Pizza reine - 01/02/2022
 Modification 2
 Modification 3 (local)
 Modification 3 (remote)
+<<<<<<< HEAD
 Champignons
 Mozza
+=======
+Fourme d'ambert de BFO !!
+
+Modification 4 (lrobinot)
+>>>>>>> d66ab93bebfcb4fe0dcdfc47711002440893b2b6
 
